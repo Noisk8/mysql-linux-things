@@ -46,11 +46,24 @@ La página web es en formato landing, con apartados (sub-páginas) para informac
 ## 6. Próximos Pasos
 - **Creación de más contenido:** Publicaciones de blog, galerías de imágenes, etc.
 - **Optimización de SEO:** Investigación de palabras clave y optimización de contenido.
+- **Dominio:** Comprar el dominio 
 - **Pruebas de usabilidad:** Revisión y ajustes basados en feedback de usuarios.
 
 ## 7. Conclusión
-- Resumen del progreso hasta la fecha.
-- Planes para las próximas fases del desarrollo.
+- La página web se encuentra en un 35 % de su desarrollo.
+- Estamos a la espera del material faltante para terminar de maquetar y culminar el diseño
+
+
+  
+
+![PAGINAWEB1](https://github.com/user-attachments/assets/69404f26-6d23-4a4a-b5d8-ae1166888a03)
+
+![PAGINAWEB2](https://github.com/user-attachments/assets/bcb8691f-9727-4c04-8b91-34e121ce4f94)
+
+![WEB3](https://github.com/user-attachments/assets/15f442cc-18c6-4e54-b97b-a1667bba84cc)
+
+![WEB5](https://github.com/user-attachments/assets/9aa5f50b-723d-4116-91b0-24db318e4421)
+
 
 **Juan Jaramillo Silva | Cynthya Penagos**  
 Desarrolladores web
