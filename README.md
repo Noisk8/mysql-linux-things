@@ -81,4 +81,12 @@ CREATE TABLE clients (
 
 );
 
+
+CREATE TABLE products (
+    name VARCHAR (20),
+    sku VARCHAR (15),
+    slug VARCHAR (20),
+    description TEXT,
+    price float
+);
 ~~~
